@@ -137,17 +137,3 @@ Pipeline performs these checks automatically:
 
 Apache 2.0 - See LICENSE for details
 
----
-
-### 🔄 Attribution
-
-This project, **ETL Pipeline: Seattle Call Data Processing**, provides a batch processing pipeline that transforms raw Seattle 911 call data into a clean star schema for analytics. It uses PySpark for ETL, outputs Parquet files, and supports loading into Snowflake. The code is licensed under the Apache 2.0 license.
-
----
-
-### 📘 How to Use:
-
-1. Copy this entire content
-2. Create a new `README.md` file in your project root
-3. Paste and save
-4. Customize any sections marked with `<>`
