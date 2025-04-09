@@ -1,0 +1,47 @@
+ 
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.parquet
+*.json
+*.db
+*.sqlite
+Data/
+Parquet_files/
+
+# Environment files
+.env
+*.env
+
+# Log files
+*.log
+logs/
+
+# Spark
+spark-warehouse/
+derby.log
+metastore_db/

@@ -1,0 +1,16 @@
+# Core Requirements
+pyspark>=3.5.0,<4.0.0
+snowflake-connector-python>=3.4.0,<4.0.0
+pyarrow>=14.0.0,<15.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Additional Spark dependencies
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+
+# Development/Testing (optional)
+pytest>=7.0.0,<8.0.0
+pytest-spark>=0.6.0,<1.0.0
+black>=23.0,<24.0
+flake8>=6.0.0,<7.0.0
+mypy>=1.0.0,<2.0.0
